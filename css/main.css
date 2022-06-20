@@ -62,7 +62,7 @@ iframe,
 img,
 svg,
 video {
-  vertical-align: right;
+  vertical-align: middle;
 }
 
 /*
